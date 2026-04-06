@@ -33,9 +33,7 @@ Estilo Visual: Inspirado na estética Studio Ghibli/Anime, trazendo calma e acol
 
 O projeto nasceu da necessidade real de organização para mães que estudam e trabalham. O design utiliza tons suaves e mascotes em estilo anime para tornar a experiência menos estressante e mais encorajadora.
 
-📸 Screenshots
 
-(Dica: Coloque aqui os links das imagens que geramos do logo e das telas do app)
 
 🛠️ Como rodar o projeto
 
