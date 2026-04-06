@@ -1,4 +1,5 @@
 Super Mom 🦸‍♀️✨
+
 O Super Mom é um aplicativo Android desenvolvido para auxiliar mães a gerenciarem sua rotina multitarefa de forma leve e organizada. Através da gamificação, o app transforma tarefas diárias (estudos, trabalho e cuidados com os filhos) em uma jornada de conquistas.
 
 🚀 Funcionalidades
